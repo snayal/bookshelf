@@ -47,14 +47,14 @@ section::after {content:''; display:block; clear:both;}
 
 section.main { margin-top: 20px; margin-bottom: 30px; padding: 0; }
 section.main aside {width:33%; float:left; text-align:center;}
-section.main .content {margin: 15px; background:no-repeat center top; background-size: 75px 75px; padding-top:85px;}
+section.main .content {margin: 15px; background:no-repeat center top; background-size: 150px 80px; padding-top:85px;}
 
-section.main aside h3 a {color:#000; text-decoration:none;}
+section.main aside h3 a {color:#f019e2; text-decoration:none;}
 section.main aside h3 a:hover {text-decoration: underline;}
 
-section.main aside .content.trending {background-image: url(../images/free\ online\ learning.png);}
-section.main aside .content.find-it {background-image: url(../images/onlineEducation.png);}
-section.main aside .content.tools {background-image: url(../images/OnlineLearning.png);}
+section.main aside .content.trending {background-image: url(../images/discoverYourNextBook.png);}
+section.main aside .content.find-it {background-image: url(../images/whereToBuyBooks.png);}
+section.main aside .content.tools {background-image: url(../images/bestSellingBooks.png);}
 
 /* Section - Atmosphere */
 
@@ -79,11 +79,11 @@ section.how-to blockquote {
     position:absolute; bottom:0;right:4%;
 } 
 
-section.how-to blockquote p {margin: 30px 30px 20px 50px;}
+section.how-to blockquote p {margin: 130px 30px 120px 50px;}
 section.how-to blockquote p.quote {font-style: italic; font-size: 1.2em;}
 section.how-to blockquote p.credit { 
     color:#777;
-    font-size: .9em; margin-top: 0; padding-left: 20px;line-height: 1.3em;
+    font-size: .9em; margin-top: 0; padding-left: 40px;line-height: 1.3em;
     position:relative;
 }
 
